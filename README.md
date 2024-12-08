@@ -24,7 +24,7 @@ Options:
 - how to run the binary
 
 ```
-./target/debug/rust-samtools-extractor ./sample-files/alignreads-metagenomics.sam ./sample-files/sample-list.txt
+./target/debug/rust-samtools-extractor ./sample-files/Col0_C1.100k.sam ./sample-files/sample.txt
 
 ```
 
