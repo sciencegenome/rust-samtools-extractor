@@ -1,7 +1,8 @@
 # rust-samtools-extractor
 
 - rust samtools extractor.
-- give the id list and extracts all the reads corresponding to those ids and writes a fasta. 
+- give the id list and extracts all the reads corresponding to those ids and writes a fasta.
+- please see the last commit message and if it says compiled binary then it is completed or else still in development version.
 
 ```
 cargo build 
